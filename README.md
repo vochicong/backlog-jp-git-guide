@@ -1,5 +1,5 @@
-# README
+# Học sử dụng Git
 
-## Pull Request
+## Tham khảo:
 
-[GitHub初心者はForkしない方のPull Requestから入門しよう](http://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)
+- [backlogtool: hướng dẫn Git dành cho người mới bắt đầu](http://backlogtool.com/git-guide/vn/)
